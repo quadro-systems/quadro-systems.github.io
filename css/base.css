@@ -541,7 +541,7 @@ img {
 
 /* tablets
 --------------------------------------------------------------- */
-@media screen and (max-width:768px) {
+@media screen and (max-width:888px) {
 	.row {
 		width: auto;
 		padding-left: 30px;
@@ -737,7 +737,7 @@ different heights to align properly.
 
 /* tablets
 --------------------------------------------------------------- */
-@media screen and (max-width:768px) {
+@media screen and (max-width:888px) {
 	.tab-bgrid-sixth .bgrid {
 		width: 16.66667%;
 	}
